@@ -2,8 +2,14 @@
 
 ###
 Total words in all plays: 835,997 
+
+
 Total plays: 37 
+
+
 Average number of words per play: 22,595 Words 
+
+
 ###
 
 | Wordcount | Play                        | Genre   |
