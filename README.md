@@ -11,7 +11,7 @@ I added the **Plus** for two reasons:
 
 The sequence I'm using was created by Benjamin McEvoy and his post is in the source link I'm including here ⤵️ He also lists reccomended movies for each play, and those excellent reccs are credited as well.  
 
-Reading Sequence Source: https://benjaminmcevoy.com/read-complete-works-shakespeare-year-recommended-reading-order/
+Reading Sequence and Movie Recc Source: https://benjaminmcevoy.com/read-complete-works-shakespeare-year-recommended-reading-order/
 
 Building off of his list, I'm adding a smoother way to parse the data, other ways to portray a reading plan, other data fields like year and genre, and other cool things that I find and make. 
 
