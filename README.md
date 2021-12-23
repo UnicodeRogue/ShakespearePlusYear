@@ -6,10 +6,10 @@ I've seen a fair number of "Read all of Shakespeare in a year" posts-
 
 I added the **Plus** for two reasons:
 
-1. You don't have to set the parameters to one year- you can still work through the complete works, on your own pace. I'm doing **one** a month. 
-2. There's more to plays than Shakespeare. I'm also **reading one play by another playwright a month** and it's been a great combo
+1. You don't have to restrict the parameters of this goal to reading everything in one year- you can still work through the complete works, on your own pace. I'm doing **one play** a month, which'll be about 3ish years to complete. With friends, we're reading the monthly play on our own time, and getting together online at the end of the month to watch the movie version reccomended by Benjamin McEvoy. 
+2. There's more to plays than Shakespeare. I'm also **reading one play by another playwright a month** and that has been great as well. 
 
-The sequence I'm using was created by Benjamin McEvoy and his post is in the source link I'm including here ⤵️ He also lists reccomended movies for each play, and those excellent reccs are credited as well.  
+I'm not going in chronological order (although the data is there if you'd like). The specific Shakespeare sequence I'm using was created by Benjamin McEvoy and his post is in the source link I'm including here ⤵️ He also lists reccomended movies for each play, and those excellent reccs are credited as well.  
 
 Reading Sequence and Movie Recc Source: https://benjaminmcevoy.com/read-complete-works-shakespeare-year-recommended-reading-order/
 
