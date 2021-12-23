@@ -1,4 +1,4 @@
-Even if your goal is to read all of Shakespeare, that doesn't mean your disqualified from exloring other writers. One idea is to read one play by Shakespeare and one play by not-Shakespeare, a month. The contrasts- and the similarities- that come through can be really fun.
+Even if your goal is to read all of Shakespeare, that doesn't mean you're disqualified from exloring other writers. One idea is to read one play by Shakespeare and one play by not-Shakespeare, a month. The contrasts- and the similarities- that come through can be really fun.
 
 
 Read another play! Not Shakespeare! 
