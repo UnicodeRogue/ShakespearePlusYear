@@ -1,12 +1,15 @@
-
-26,41,William,Shakespeare,The Passionate Pilgrim,Narrative poem,1599,10,2558,No movie reccomendation from BE
-29,42,William,Shakespeare,The Phoenix and the Turtle,Narrative poem,1601,10,2558,No movie reccomendation from BE
-35,43,William,Shakespeare,Anthony and Cleopatra,Tragedy,1606,186,24905,Watch the 1972 version directed by and starring Charlton Heston.
-40,44,William,Shakespeare,Sonnets Part 1 Read 1-28,Poetry,1609,118,2650,Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/
-41,45,William,Shakespeare,Sonnets Part 2 Read 29-56,Poetry,1609,118,2650,Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/
-42,46,William,Shakespeare,Sonnets Part 3 Read 57-84,Poetry,1609,118,2650,Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/
-43,47,William,Shakespeare,Sonnets Part 4 Read 85-112,Poetry,1609,118,2650,Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/
-44,48,William,Shakespeare,Sonnets Part 5 Read 113-140,Poetry,1609,118,2650,Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/
-45,49,William,Shakespeare,Sonnets Part 6 Read 140-154,Poetry,1609,116,2550,Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/
-
-You're done! Go read something else!
+| Year | Read                   | Month     | Play                        | Genre          | Watch                  | BE\_RecMovie                                                                                                                           |
+| ---- | ---------------------- | --------- | --------------------------- | -------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024 | :white\_large\_square: | January   | Pericles                    | History        | :white\_large\_square: | Watch the 1984 BBC version.                                                                                                            |
+| 2024 | :white\_large\_square: | February  | The Passionate Pilgrim      | Narrative poem | :white\_large\_square: | No movie reccomendation from BE                                                                                                        |
+| 2024 | :white\_large\_square: | February  | The Phoenix and the Turtle  | Narrative poem | :white\_large\_square: | No movie reccomendation from BE                                                                                                        |
+| 2024 | :white\_large\_square: | March     | Anthony and Cleopatra       | Tragedy        | :white\_large\_square: | Watch the 1972 version directed by and starring Charlton Heston.                                                                       |
+| 2024 | :white\_large\_square: | April     | Sonnets Part 1 Read 1-28    | Poetry         | :white\_large\_square: | Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/ |
+| 2024 | :white\_large\_square: | May       | Sonnets Part 2 Read 29-56   | Poetry         | :white\_large\_square: | Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/ |
+| 2024 | :white\_large\_square: | June      | Sonnets Part 3 Read 57-84   | Poetry         | :white\_large\_square: | Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/ |
+| 2024 | :white\_large\_square: | July      | Sonnets Part 4 Read 85-112  | Poetry         | :white\_large\_square: | Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/ |
+| 2024 | :white\_large\_square: | August    | Sonnets Part 5 Read 113-140 | Poetry         | :white\_large\_square: | Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/ |
+| 2024 | :white\_large\_square: | September | Sonnets Part 6 Read 140-154 | Poetry         | :white\_large\_square: | Listen to Sir Patrick Stewart: https://www.smithsonianmag.com/smart-news/hear-daily-shakespeare-sonnets-sir-patrick-stewart-180974616/ |
+| 2024 | :white\_large\_square: | October   | Reread your favorite        | Favorite       | :white\_large\_square: | [https://www.reducedshakespeare.com/](https://www.reducedshakespeare.com/)                                                             |
+| 2024 | :white\_large\_square: | November  | Shakespeare Autumn          | Nature         | :white\_large\_square: | [https://twitter.com/folgerlibrary/status/1440789320353259527](https://twitter.com/folgerlibrary/status/1440789320353259527)           |
+| 2024 | :white\_large\_square: | December  | Shakespeare Christmas       | Food           | :white\_large\_square: | [https://www.folger.edu/events/a-medieval-christmas](https://www.folger.edu/events/a-medieval-christmas)                               |
